@@ -1,6 +1,6 @@
 MaterialDuck, a CSS Framework based on material design
 
-### Current Version : v1.0
+### Current Version : v0.1
 
 ## Supported Browsers:
 All?
