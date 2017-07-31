@@ -1,4 +1,5 @@
-MaterialDuck, a CSS Framework based on material design
+### MaterialDuck
+A simple, free, material design portfolio for the web.
 
 ### Current Version : v0.1
 
