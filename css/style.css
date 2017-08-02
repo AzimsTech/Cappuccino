@@ -1,13 +1,13 @@
 #bioColumn {
   height: 100vh;
-  background-color: #fcfcfcfc;
+  background-color: #7C5852;
   position: sticky;
   top: 0;
 }
 
 #worksColumn {
   padding: 24px;
-  background-color: #fcfcfc;
+  background-color: #7C5852;
 
 }
 #worksColumnMobile {
@@ -16,7 +16,7 @@
 }
 
 #mainColumnMobile {
-  background-color: #fcfcfc;
+  background-color: #7C5852;
 }
 
 #rowMainDesktop, #rowMainMobile {
@@ -32,6 +32,14 @@
   margin-left: calc(50% - 75px);
 }
 
+#profileImageMobile {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-top: calc(10%);
+  margin-left: calc(50% - 75px);
+}
+
 #description {
   font-size: 15px;
 
@@ -39,7 +47,7 @@
 
 body {
   font-family: Nunito;
-  background-color: #fcfcfc;
+  background-color: #7C5852;
 }
 #linkSection {
   margin-top: 3px;
