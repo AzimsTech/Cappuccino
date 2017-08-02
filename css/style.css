@@ -1,13 +1,13 @@
 #bioColumn {
   height: 100vh;
-  background-color: #eeeeee;
+  background-color: #fcfcfcfc;
   position: sticky;
   top: 0;
 }
 
 #worksColumn {
   padding: 24px;
-  background-color: #eeeeee;
+  background-color: #fcfcfc;
 
 }
 #worksColumnMobile {
@@ -16,7 +16,7 @@
 }
 
 #mainColumnMobile {
-  background-color: #eeeeee;
+  background-color: #fcfcfc;
 }
 
 #rowMainDesktop, #rowMainMobile {
@@ -39,7 +39,7 @@
 
 body {
   font-family: Nunito;
-  background-color: #eeeeee;
+  background-color: #fcfcfc;
 }
 #linkSection {
   margin-top: 3px;
