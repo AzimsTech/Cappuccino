@@ -1,7 +1,7 @@
 ### Cappuccino
 A simple, free, material design portfolio for the web.
 [See demo](https://jacksonhayes.me/cappuccino/index.html)
-
+(https://github.com/jacksonhvisuals/Cappuccino/blob/master/images/cappuccino.png)
 #### Current Version : v1.0
 
 ## Supported Browsers:
