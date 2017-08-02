@@ -1,5 +1,5 @@
 ![Cappuccino](images/cappuccino.png)
-### Cappuccino
+# Cappuccino
 A simple, free, material design portfolio for the web.
 [See demo](https://jacksonhayes.me/cappuccino/index.html)
 
