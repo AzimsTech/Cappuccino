@@ -2,7 +2,7 @@
 A simple, free, material design portfolio for the web.
 [See demo](https://jacksonhayes.me/materialduck/index.html)
 
-#### Current Version : v0.1
+#### Current Version : v0.2
 
 ## Supported Browsers:
 All?
